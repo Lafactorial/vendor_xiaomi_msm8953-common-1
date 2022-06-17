@@ -241,7 +241,7 @@ dex_import {
 dex_import {
 	name: "com.qti.snapdragon.sdk.display",
 	owner: "xiaomi",
-	jars: ["proprietary/system/framework/com.qti.snapdragon.sdk.display.jar"],
+	jars: ["proprietary/framework/com.qti.snapdragon.sdk.display.jar"],
 }
 
 dex_import {
